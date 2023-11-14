@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "927C2A43-0262-45D7-83F0-258110C81BD6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34D93979-4502-4DF9-9082-8BF15D06B366"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolProjectV2/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getListings(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3104A488-E51E-483B-A07A-50A61FF05A81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolProjectV2/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getListings(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3104A488-E51E-483B-A07A-50A61FF05A81 - 80282723e27efa1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolProjectV2.ApiService.getListings(completion: (Swift.Result&lt;Swift.Array&lt;SchoolProjectV2.MyFilmsListing&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolProjectV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ziemowitkorzeniewski/Desktop/Coding/AppSchoolProject/SchoolProjectV2/SchoolProjectV2/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "3104A488-E51E-483B-A07A-50A61FF05A81 - 80282723e27efa7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolProjectV2.ApiService.getListings(completion: (Swift.Result&lt;Swift.Array&lt;SchoolProjectV2.MyFilmsListing&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolProjectV2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ziemowitkorzeniewski/Desktop/Coding/AppSchoolProject/SchoolProjectV2/SchoolProjectV2/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
